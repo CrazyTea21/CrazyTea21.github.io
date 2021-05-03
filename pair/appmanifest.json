@@ -1,0 +1,16 @@
+{
+	"name": "Card Memory Match Template",
+	"short_name": "Card Memory Match Template",
+	"description": "dcv",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
