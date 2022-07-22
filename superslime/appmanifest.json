@@ -1,0 +1,16 @@
+{
+	"name": "Super Slime",
+	"short_name": "Super Slime",
+	"description": "A story about one slime",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
